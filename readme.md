@@ -57,7 +57,9 @@ A university management system that involves faculties, departments, Faculty mem
 
 - Built a role-based API using Express and MongoDB, following the modular pattern
 - Implemented authentication and authorization using JWT tokens combined with cookies
-- Wrote necessary utils and middlewares, reducing redundant code by 80%
+- Wrote necessary utils and middlewares to handle queries and errors, reducing redundant code by 80%
+- Built Image upload feature using Multer and Cloudinary
+- Created `send email` functionality by nodemailer
 
 **Techoologies:** Express, TypeScript, Mongoose, MongoDB, JWT, multer, cloudinary, nodemailer, Zod validation, eslint
 
